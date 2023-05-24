@@ -36,7 +36,7 @@
   ---
 
   ## Tests:
-  Test the GET, POST, PUT, and DELETE routes in a tool such as Insomnia.<br />
+  Test the GET, POST, PUT, DELETE calls and the API routes in a tool such as Insomnia.<br />
 
 
   ---
